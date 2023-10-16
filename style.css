@@ -1,0 +1,21 @@
+#countdown{
+                            background-color: rgb(127, 246, 255); 
+                            padding:5px 5px 5px 10px ;
+                            margin: 100px;
+                            width: 300px;
+                            height: 90px;
+                            font-size: 25px;
+                            font-family: Georgia, 'Times New Roman', Times, serif;
+                            color:dodgerblue;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            border-radius: 30px;
+                            border: 3px solid rgb(35, 46, 47);
+                            box-shadow: 10px 10px 5px black;
+}
+
+body{
+    background: rgb(131,58,180);
+background: radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
